@@ -5,8 +5,6 @@
 
 🚀 **Currently seeking my first professional role (Trainee / Junior / Internship) as a Software Developer.**
 
-## 💼 Skills
-
 ## 🛠️ Tech Stack & Tools
 
 | Area | Technologies & Tools |
