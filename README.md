@@ -5,7 +5,7 @@
 
 👋 Hi there! I'm Franco, a Software Engineering Student specializing in **Full-Stack (Web) and Mobile Development**, with a strong interest in expanding my knowledge in **Data Science & Machine Learning**. Through hands-on academic projects, I have designed scalable REST APIs, microservices, cross-platform mobile apps, and machine learning models.
 
-🚀 **Currently seeking my first professional role (Trainee / Junior / Internship) as a Software Developer.**
+🚀 Currently seeking my first professional role (Trainee / Junior / Internship) as a Software Developer. <a href="https://drive.google.com/file/d/1qAX8Z5hsgUWq-Cgazh9NldfF3WdZHAPz/view?usp=sharing">Check out my CV here.</a>
 
 ## 🛠️ Tech Stack & Tools
 
